@@ -4,4 +4,6 @@ Tableau dashboard that showcases Covid-19 activity (confirmed cases + deaths) by
 
 Dataset courtesy of Tableau Covid-19 Data Hub.
 
+Link to Tableau Public: https://public.tableau.com/shared/WB2PYXKJB?:display_count=y&:origin=viz_share_link
+
 *Project inspired by Anthony B. Smoak
